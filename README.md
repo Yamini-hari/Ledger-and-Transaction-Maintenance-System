@@ -1,4 +1,4 @@
-# Ledger-and-transaction-maintenance-system
+# Ledger and Transactions Maintainance System
 
 This project was created as a part of File Structures course during my Undergraduate Program.
 
